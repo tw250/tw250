@@ -1,16 +1,14 @@
-### Hi there 👋
+Sejam Bem vindas 
 
-<!--
-**tw250/tw250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vulgo: cleiytin dos motorzao 
 
-Here are some ideas to get you started:
+estudante:alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+15 anininhos de pura felicidade 
+
+solteiro: pronto para dar amor ksksksk
+
+estou me desenvolvendo em linguaem de JavaScript
+
+![.](https://media.tenor.com/CW5IbkZE-H0AAAAd/mc-hariel-hariel.gif)
+
